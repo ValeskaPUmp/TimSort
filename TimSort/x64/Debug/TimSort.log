@@ -1,2 +1,0 @@
-﻿TimSort.obj : error LNK2019: unresolved external symbol "public: static void __cdecl TimSortImpl<class Item,3>::sort(class std::array<class Item,3> &)" (?sort@?$TimSortImpl@VItem@@$02@@SAXAEAV?$array@VItem@@$02@std@@@Z) referenced in function main
-C:\Users\Валентин\source\repos\TimSort\x64\Debug\TimSort.exe : fatal error LNK1120: 1 unresolved externals

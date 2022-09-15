@@ -1,5 +1,0 @@
-﻿  TimSort.cpp
-  TimSortImpl.cpp
-  Generating Code...
-TimSort.obj : error LNK2019: unresolved external symbol "public: static void __cdecl TimSortImpl<class Item,3>::sort(class std::array<class Item,3> &)" (?sort@?$TimSortImpl@VItem@@$02@@SAXAAV?$array@VItem@@$02@std@@@Z) referenced in function _main
-C:\Users\Валентин\source\repos\TimSort\Debug\TimSort.exe : fatal error LNK1120: 1 unresolved externals
